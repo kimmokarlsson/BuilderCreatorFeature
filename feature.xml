@@ -4,8 +4,8 @@
       label="BuilderCreatorFeature"
       version="0.0.6"
       provider-name="github"
-      license-feature="org.eclipse.jdt"
-      license-feature-version="3.11.0.v20150603-2000">
+      license-feature="org.eclipse.platform"
+      license-feature-version="4.5.2.v20160416-2200">
 
    <description>
       Helper functions for maintaining Builder classes.
