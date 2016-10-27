@@ -2,12 +2,12 @@
 <feature
       id="com.github.kimmokarlsson.eclipse.buildercreator.feature"
       label="BuilderCreatorFeature"
-      version="0.0.7"
+      version="0.0.8"
       provider-name="github"
-      license-feature="org.eclipse.platform"
-      license-feature-version="4.5.2.v20160416-2200">
+      license-feature="org.eclipse.core.runtime.feature"
+      license-feature-version="1.1.201.v20160915-0852">
 
-   <description>
+   <description url="https://github.com/kimmokarlsson/BuilderCreatorPlugin">
       Helper functions for maintaining Builder classes.
    </description>
 
