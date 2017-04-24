@@ -2,7 +2,7 @@
 <feature
       id="com.github.kimmokarlsson.eclipse.buildercreator.feature"
       label="BuilderCreatorFeature"
-      version="0.0.10"
+      version="0.0.11"
       provider-name="github"
       license-feature="org.eclipse.core.runtime.feature"
       license-feature-version="1.1.201.v20160915-0852">
