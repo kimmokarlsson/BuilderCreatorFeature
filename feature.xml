@@ -2,7 +2,7 @@
 <feature
       id="com.github.kimmokarlsson.eclipse.buildercreator.feature"
       label="BuilderCreatorFeature"
-      version="0.0.12"
+      version="0.0.13"
       provider-name="github">
 
    <description url="https://github.com/kimmokarlsson/BuilderCreatorPlugin/">
